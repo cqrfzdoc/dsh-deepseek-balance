@@ -2,7 +2,7 @@
 
 DeepSeek Harness 插件：屏幕右下角常驻一个可拖动的钱包悬浮球，点一下就能看到 DeepSeek 账号余额。
 
-A floating wallet ball for [DeepSeek Harness](https://github.com/deepseek-ai/dsh): click it to read your DeepSeek account balance.
+A floating wallet ball for DeepSeek Harness: click it to read your DeepSeek account balance.
 
 ## 功能
 
@@ -18,10 +18,10 @@ A floating wallet ball for [DeepSeek Harness](https://github.com/deepseek-ai/dsh
 
 需要 DeepSeek Harness `>=0.2.1-rc.5 <0.3.0`，且是带 Web 界面的 profile（Desktop 或 `dsh web`）。
 
-**从 GitHub 安装**：把仓库地址换成你的，让 agent 执行 `plugin_manager` 的 `install_bundle`，`target` 填：
+**从 GitHub 安装**：让 agent 执行 `plugin_manager` 的 `install_bundle`，`target` 填：
 
 ```
-git+https://github.com/<your-github-user>/dsh-deepseek-balance.git
+git+https://github.com/cqrfzdoc/dsh-deepseek-balance.git
 ```
 
 **从本地目录安装**：`target` 填本仓库的绝对路径。

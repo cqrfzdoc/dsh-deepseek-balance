@@ -4,6 +4,15 @@
   "description": "Floating wallet ball for DeepSeek Harness: click to read your DeepSeek account balance.",
   "type": "module",
   "license": "MIT",
+  "author": "Zichao Cui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqrfzdoc/dsh-deepseek-balance.git"
+  },
+  "homepage": "https://github.com/cqrfzdoc/dsh-deepseek-balance#readme",
+  "bugs": {
+    "url": "https://github.com/cqrfzdoc/dsh-deepseek-balance/issues"
+  },
   "keywords": [
     "dsh",
     "dsh-plugin",
