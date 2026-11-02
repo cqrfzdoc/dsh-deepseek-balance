@@ -24,6 +24,12 @@ A floating wallet ball for DeepSeek Harness: click it to read your DeepSeek acco
 git+https://github.com/cqrfzdoc/dsh-deepseek-balance.git
 ```
 
+固定版本就带上 tag：
+
+```
+git+https://github.com/cqrfzdoc/dsh-deepseek-balance.git#v1.0.0
+```
+
 **从本地目录安装**：`target` 填本仓库的绝对路径。
 
 安装后默认启用，右下角会出现悬浮球；也可以在「设置 → 插件」里启用/禁用。
