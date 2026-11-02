@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="DeepSeek Balance">
+  <defs>
+    <linearGradient id="dsdb-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d6bfe"/>
+      <stop offset="1" stop-color="#2a3ec4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#dsdb-bg)"/>
+  <path d="M17 25.5A5.5 5.5 0 0 1 22.5 20H44a6 6 0 0 1 6 6v15a6 6 0 0 1-6 6H23a6 6 0 0 1-6-6V25.5Z"
+        fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M17 26.5h24.5" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="42" cy="36" r="2.6" fill="#ffffff"/>
+</svg>
